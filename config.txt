@@ -1,0 +1,12 @@
+[LOGIN]
+usuario = 845081641
+senha   = Aryel29032021
+
+[PARAMETERS]
+valor_entrada = 1
+auto_retirar  = 1.6
+
+[MARTINGALE]
+usar_martingale   = N
+niveis_martingale = 1
+fator_martingale  = 3
