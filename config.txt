@@ -1,6 +1,6 @@
 [LOGIN]
-usuario = 845081641
-senha   = Aryel29032021
+usuario = 84...
+senha   = 
 
 [PARAMETERS]
 valor_entrada = 1
