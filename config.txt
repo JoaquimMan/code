@@ -1,6 +1,6 @@
 [LOGIN]
-usuario = 84...
-senha   = 
+usuario = seu telefone
+senha   = sua senha
 
 [PARAMETERS]
 valor_entrada = 1
